@@ -33,7 +33,13 @@
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
+    "@storybook/addon-actions": "^5.3.14",
+    "@storybook/addon-links": "^5.3.14",
+    "@storybook/addons": "^5.3.14",
+    "@storybook/react-native": "^5.3.14",
+    "babel-loader": "^8.0.6",
     "babel-preset-expo": "~8.0.0",
+    "gh-pages": "^2.2.0",
     "jest-expo": "~36.0.1"
   },
   "private": true
