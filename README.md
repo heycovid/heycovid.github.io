@@ -1,4 +1,4 @@
-# Heycovid / Open Source Covid 19 Medical Supplies, COMING SOON
+## Open Source Covid 19 Medical Supplies, COMING SOON
 *Read about us:*
 
    on VICE: [How open-source software is tackling COVID-19 coronavirus](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
